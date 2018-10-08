@@ -37,7 +37,7 @@ S = c,
 C = 5.
 ```
 
-Thus, minimax believes the bset move is to take move `c` from `a`, and that it can achieve a cost value of `5` by  taking this move. After studying the implementation (don't forget to look at both files), construct 4 ply game tree. Ply is the number of turns, so this means the tree should be depth 4. Let the game tree be a full binary tree with the following terminal values:
+Minimax believes the best move is to take `c` from `a`, and that it can achieve a cost value of `5` by  taking this move. After studying the implementation (don't forget to look at both files), construct 4 ply game tree. Ply is the number of turns, so this means the tree should be depth 4. Let the game tree be a full binary tree with the following terminal values:
 
 ```
 1 0 0 1 -1 1 -1 1
