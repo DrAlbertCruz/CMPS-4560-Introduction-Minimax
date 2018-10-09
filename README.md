@@ -6,7 +6,7 @@ CMPS 4560: Understanding minimax in Prolog
 * SWI-Prolog
 * Files in this repo:
 ```shell
-$ git https://github.com/DrAlbertCruz/CMPS-4560-Introduction-Minimax.git
+$ git clone https://github.com/DrAlbertCruz/CMPS-4560-Introduction-Minimax.git
 $ cd CMPS-4560-Introduction-Minimax
 ```
 
