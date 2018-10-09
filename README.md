@@ -25,7 +25,7 @@ true.
 true.
 ```
 
-Test out minimax by calling `minimax/3`. The first argument is the starting node. The second argument is the sucessor. The sucessor is the move that max will take having considered how the game will play out over a certain number of plys. The third argument is the utility value, which is the cost that max believes it can achieve if it takes the move defined by sucessor.
+Test out minimax by calling `minimax/3`. The first argument is the starting node. The second argument is the sucessor. The sucessor is the move that max will take having considered how the game will play out over a certain number of plys. The third argument is the utility value, which is the cost that max believes it can achieve if it takes the sucessor move.
 
 ```prolog
 ?- minimax(a,S,C).
